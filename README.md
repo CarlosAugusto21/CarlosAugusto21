@@ -1,5 +1,5 @@
 #Olá, Sou Carlos Augusto <br>
-📚 Cursando Engenharia de Software - 2º Período <br>
+📚 Cursando Engenharia de Software - 4º Período <br>
 🌱 Estudando Javaspript
 
 <div>
